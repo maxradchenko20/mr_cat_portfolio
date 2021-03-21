@@ -1,0 +1,19 @@
+.block__ {
+	display: flex;
+	justify-content: space-between;
+}
+
+
+.block__ .skills__ {
+	width: 500px;
+	height: 1000px;
+	background: red;
+	
+
+}
+.block__ .skills___ {
+	width: 500px;
+	height: 1000px;
+	background: green;
+
+}
