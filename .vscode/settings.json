@@ -1,8 +1,0 @@
-{
-    "files.autoSave": "afterDelay",
-    "editor.tabSize": 3,
-    "editor.insertSpaces": false,
-	"editor.detectIndentation": false,
-	"workbench.editor.closeEmptyGroups": false,
-	"editor.formatOnSave": true
-}
